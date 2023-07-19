@@ -1,0 +1,56 @@
+body{
+
+    background-color: rgb(41, 231, 16);
+    background-size: cover;
+    font-family:Arial,Helvetica,sans-serif;
+     background-attachment:fixed;
+    
+
+    }
+    
+    .heading{
+    
+    width: 1000px;
+     height: 70px; 
+     centre: 400px; 
+    margin-top: 195px; 
+    border-radius: 50px;
+    animation-duration:25ms;
+    padding-block-end: 50px;
+    }
+    
+    .heading h1{
+    
+    text-shadow:5px 5px rgb(126, 60, 60);
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+     text-align: center;
+     color: rgb(22, 20, 21);
+      font-size: 50px;
+      letter-spacing: 5px;
+     animation-delay: 10ms;
+     word-spacing:10px;
+    }
+    
+    .first{
+     text-align:center; 
+     letter-spacing: 1px;
+     color:rgb(212, 124, 124);
+
+    }
+     .firstimage{
+     text-align: center;
+ }
+     .second{
+    text-align: center; 
+    letter-spacing: 1px;
+    color:rgb(212, 124, 124);
+     }
+     .secondimage{
+     text-align: center;
+     }
+    .image{
+     width: 150px; height: 150px;
+    border-radius: 10px 10px 10px 10px; margin-left: 30px;
+    margin-top: 30px;
+    padding :block end 20px;}
